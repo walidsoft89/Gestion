@@ -1,6 +1,6 @@
 <html>
 
-<h1>Tests avec Jenkins @|walid</h1>
+<h1>Tests avec Jenkins @|walid et ousema</h1>
 
 </html>
 
